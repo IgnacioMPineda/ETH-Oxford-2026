@@ -1,5 +1,5 @@
 # ETH-Oxford-2026
-Work done and presented at the mathematical Institute at Oxford for the ETH Oxford hackathon in 2026.
+Work done and presented at the mathematical Institute at Oxford University for the ETH Oxford hackathon in 2026.
 
 Lancelot is an anonymous, crypto-based platform that protects freelancers from being ghosted by their clients. Each job acts like a "contract" where both parties lock funds as stakes. 
 
