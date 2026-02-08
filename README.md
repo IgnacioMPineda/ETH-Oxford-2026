@@ -29,3 +29,13 @@ Lancelot Shield implements textbook DeFi principles: When employers create jobs,
 The prediction market layer creates an external reliability signal for every job. Third parties wager ETH on whether completion will occur, forming YES/NO liquidity pools that generate market-implied success probabilities. When jobs resolve via Flare verification, winning bets claim the opposing pool according to predefined smart contract rules. This mechanism produces objective trust scores driven by financial skin-in-the-game rather than manipulable platform ratings.
 
 Built on Flare's Coston2 testnet, Lancelot Shield leverages FTSO price feeds for live ETH/USD prices, 1.5-second blocks for instant confirmations, and EVM compatibility for standard Remix/MetaMask tooling. 
+
+
+Prediction market shows fully styled betting UI with YES/NO pools and success probability. FXRP toggle demonstrates FAssets integration readiness. Verify Job option displays Flare proof verification flow. All three features complete as UI but await smart contract backend integration, prioritizing working Flare verification + escrow core for demo.
+
+
+
+
+
+FEEDBACK FOR FLARE: MetaMask to Coston2 connection had some issues getting faucet tokens, but the issues were mainly on MetaMask's part. Once connected, the Flare  EVM tooling and Remix deploys worked fine, as well as the FTSO price feeds. The 1.5s blocks were fast and Coston2 testnet was solid. Moreover, the Flare team and workers attending the event were very helpful and clear with their support
+
